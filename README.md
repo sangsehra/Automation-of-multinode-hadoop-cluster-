@@ -1,1 +1,2 @@
-# Automation-of-multinode-hadoop-cluster-
+# automation-hadoop
+manual and automatic options
